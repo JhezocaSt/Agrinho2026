@@ -1,0 +1,14 @@
+body{
+    background-color: beige;
+    color: chocolate;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color: black;
+    color: aquamarine;
+    font-family: cursive;
+}
