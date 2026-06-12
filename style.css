@@ -1,14 +1,14 @@
 body{
     background-color: beige;
-    color: chocolate;
-    font-family: cursive;
+    color: rgb(176, 46, 13);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     justify-content: center;
     height: 700px;
     margin: 0;
 }
 button{
-    background-color: black;
-    color: aquamarine;
+    background-color: rgba(130, 230, 119, 0.748);
+    color: rgb(108, 227, 76);
     font-family: cursive;
 }
